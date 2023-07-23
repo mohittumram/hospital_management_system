@@ -3,6 +3,8 @@ View_Channel.class
 Doctor.class
 Main$6.class
 Channel$Doctor.class
+db/GenerateOTP.class
+User$6.class
 Doctor$3.class
 User$3.class
 View_Channel$4.class
@@ -22,6 +24,7 @@ Doctor$4.class
 Doctor$1.class
 Channel$5.class
 Doctor$7.class
+User$7.class
 User$4.class
 Patient$1.class
 Main$8.class
@@ -37,11 +40,15 @@ Doctor$5.class
 Main.class
 Main$7.class
 Doctor$8.class
+db/SendOTPService.class
 Patient$5.class
+User$8.class
 Login$2.class
+User$5.class
 Doctor$6.class
 Patient$3.class
 Doctor$2.class
+db/SendOTPService$1.class
 User$2.class
 View_Channel$3.class
 Channel$3.class

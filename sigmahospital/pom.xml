@@ -25,6 +25,11 @@
     <artifactId>mysql-connector-j</artifactId>
     <version>8.0.33</version>
 </dependency>
+<dependency>
+            <groupId>com.sun.mail</groupId>
+            <artifactId>javax.mail</artifactId>
+            <version>1.6.2</version>
+        </dependency>
         <dependency>
             <groupId>unknown.binary</groupId>
             <artifactId>jcalendar-1.4</artifactId>

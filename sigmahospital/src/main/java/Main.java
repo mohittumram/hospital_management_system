@@ -41,12 +41,9 @@ public class Main extends javax.swing.JFrame {
         if(utype.equals("Doctor")) {
             jButton1.setVisible(false);
             jButton3.setVisible(false);
-            jButton5.setVisible(false);
-            jButton6.setVisible(false);
             jButton7.setVisible(false);
         } else if(utype.equals("Receptionist")) {
             jButton2.setVisible(false);
-            jButton5.setVisible(false);
         } else if (utype.equals("Pharmacist")) {
             jButton1.setVisible(false);
             jButton2.setVisible(false);
